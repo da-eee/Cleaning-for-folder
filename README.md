@@ -1,0 +1,2 @@
+# Cleaning-for-folder
+特定フォルダ下の不要ファイルをクリーニングするWindows向けのソフト
